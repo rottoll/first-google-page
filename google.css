@@ -1,0 +1,70 @@
+*{/*bütün ana sayfa*/
+    padding: 0;
+    margin: 0;
+    
+}
+
+.google{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.arama{
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+.aramab{
+    margin: 0 0 1px 0;
+}
+
+.form{
+    padding: 1px 0 2px 0;
+}
+
+.buton1, .buton2{
+    margin: 5px 0px  0px 0;
+}
+.kutular{
+    margin: 10px 0 0 0;
+}
+.kutu1{
+    border: 2px solid green;
+    background-color: greenyellow;
+    padding: 10px 160px 10px 160px;
+    
+    float: left;
+}
+
+.kutu2{
+    border: 2px solid red;
+    float: left;
+    background-color: aqua;
+    padding: 10px 160px 10px 160px;
+
+}
+
+.kutu3{
+    border: 2px solid yellow;
+    float: left;
+    background-color: yellow;
+    padding: 10px 160px 10px 160px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+}
+
+.buton3{
+    padding: 2px 5px 2px 5px;
+    margin: 5px 40px 0 0;
+}
+
+.pag{
+    text-align: center;
+    margin: 20px 0 0 0 ;
+    padding: 15px 0 0 0 ;
+}
+
